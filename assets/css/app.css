@@ -1,0 +1,49 @@
+.big {
+    font-size: 150%;
+}
+
+.bigger {
+    font-size: 200%;
+}
+
+.biggest {
+    font-size: 250%;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+
+.hidden-data {
+    display: none;
+}
+
+ul.nav.btns-right{
+    float: right;
+}
+
+div.row.first-row{
+    margin-top: 55px;
+}
+
+div.progress-bar {
+    background-color: cyan;
+}
+div.progress-bar-interest {
+    background-color: orange;
+}
+
+div.vote-button {
+    background-repeat:no-repeat;
+    height: 35px;
+    width: 35px;
+    cursor: pointer;
+}
+div.red-star {
+    background-image: url('../img/red_star.png');
+
+}
+div.red-outline-star {
+    background-image: url('../img/red_outline_star.png');
+}
